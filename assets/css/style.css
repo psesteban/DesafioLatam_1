@@ -1,0 +1,33 @@
+
+body {
+  background-color: #cfd8db;
+  font-family: Verdana, Arial; 
+ }
+
+
+header {
+  border-color: rgb(255, 233, 31);
+  border-style: double;
+  margin: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h2 {
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  background-image: linear-gradient(to right, #0274b3, #cfd8db);
+  color: white;
+}
+
+
+.bordered-heading {
+  display: inline-block;
+  /* Ajustar el elemento como un bloque */
+border-collapse:collapse ;
+}
+
+
+div {
+  text-align: justify;
+  margin-bottom: 60px;
+}
